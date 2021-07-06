@@ -1,6 +1,5 @@
 import cv2
 from random import randrange
-# https://youtu.be/XIrOM9oP3pA?t=1035
 
 
 # the classifier detects the faces
